@@ -1,0 +1,27 @@
+{
+ "tuketim": {
+  "gun_duzeyi_yokluk_kesinlik": 1.0,
+  "gun_duzeyi_yokluk_duyarlilik": 0.545,
+  "yokluk_yasayan_hane": 65,
+  "dogru_bulunan_hane": 39,
+  "yanlis_alarm_hane": 0,
+  "kacak_hane": 14,
+  "kacak_dogru": 14,
+  "kacak_yanlis": 0,
+  "uyanma_saati_std_medyan": 0.53
+ },
+ "sebeke": {
+  "hat_kesif_dagilimi": {
+   "düşük": 780,
+   "orta": 179,
+   "yüksek": 102
+  },
+  "is_emri_kesif_dagilimi": {
+   "düşük": 48,
+   "orta": 17,
+   "yüksek": 5
+  },
+  "is_emri_sayisi": 70,
+  "ortalama_sizinti_suresi_gun": 143.0
+ }
+}

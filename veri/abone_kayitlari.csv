@@ -1,0 +1,301 @@
+abone_no,ad_soyad,adres,ilce,telefon,sayac_no,bagli_dugum,tarife,borc_tl,son_fatura_tl,son_odeme,okuma_rotasi
+AB-100000,Iain Reynolds,"Studio 32A Diane Dale, Kuzeytepe",Kuzeytepe,+00 5290281634,SY-7694027,J-1,konut,213.34,60.9,2026-11-28,R01
+AB-100001,Mr Dean Lloyd,"Flat 52L Nicholson Center, Kuzeytepe",Kuzeytepe,+00 5360998443,SY-1701202,J-10,konut,366.75,112.98,2026-11-28,R02
+AB-100002,Debra Allen,"Flat 56S Connolly Trail, Sahilyolu",Sahilyolu,+00 5992598711,SY-3173218,J-100,konut,0.0,54.64,2026-11-28,R03
+AB-100003,Billy Smith,"70 Owen Ridge, Gölbaşı",Gölbaşı,+00 5624738157,SY-1253452,J-101,konut,0.0,50.27,2026-11-28,R04
+AB-100004,Dr Shane Nicholls,"Flat 65a Thomas Inlet, Sahilyolu",Sahilyolu,+00 5865260080,SY-1319450,J-102,konut,0.0,16.02,2026-11-28,R05
+AB-100005,Alexander Martin,"2 Bird Junction, Sahilyolu",Sahilyolu,+00 5950141720,SY-1960813,J-103,konut,0.0,55.69,2026-11-28,R06
+AB-100006,Ms Laura Parker,"Flat 04S Clive Stream, Sahilyolu",Sahilyolu,+00 5308735423,SY-1725044,J-104,konut,0.0,59.65,2026-11-28,R07
+AB-100007,Hannah Howard,"Studio 3 Manning Plaza, Sahilyolu",Sahilyolu,+00 5446395373,SY-2702384,J-105,konut,0.0,46.54,2026-11-28,R08
+AB-100008,Mary Walker,"03 Paige Bridge, Sahilyolu",Sahilyolu,+00 5783953183,SY-8921727,J-106,konut,168.73,29.34,2026-11-28,R09
+AB-100009,Mathew Davey,"Studio 48G Moore Stream, Sahilyolu",Sahilyolu,+00 5884332554,SY-3521024,J-107,konut,0.0,117.6,2026-11-28,R10
+AB-100010,Miss Eileen Hall,"115 Williams Gardens, Sahilyolu",Sahilyolu,+00 5662099038,SY-3361558,J-108,işyeri,114.88,54.59,2026-11-28,R11
+AB-100011,Roger Wade,"576 Sutton Underpass, Sahilyolu",Sahilyolu,+00 5332413311,SY-1109451,J-109,konut,0.0,84.62,2026-11-28,R12
+AB-100012,Ricky Stone,"Flat 8 Crawford Turnpike, Kuzeytepe",Kuzeytepe,+00 5667136187,SY-3918913,J-11,konut,0.0,81.05,2026-11-28,R01
+AB-100013,Dr Craig Smith,"520 Donna Manors, Sahilyolu",Sahilyolu,+00 5877713513,SY-2121921,J-110,konut,0.0,113.67,2026-11-28,R02
+AB-100014,Lesley Knight,"607 Irene Unions, Sahilyolu",Sahilyolu,+00 5245884248,SY-3354688,J-111,konut,0.0,19.73,2026-11-28,R03
+AB-100015,Chelsea Holmes,"8 Brooks Overpass, Sahilyolu",Sahilyolu,+00 5936845843,SY-2023856,J-112,işyeri,0.0,104.3,2026-11-28,R04
+AB-100016,Jean Richardson,"202 Curtis Inlet, Kuzeytepe",Kuzeytepe,+00 5392932787,SY-7243950,J-113,konut,0.0,49.04,2026-11-28,R05
+AB-100017,Louis Clarke,"956 Dunn Ridges, Sahilyolu",Sahilyolu,+00 5126222653,SY-9472094,J-114,konut,0.0,22.44,2026-11-28,R06
+AB-100018,Martin Lewis,"2 Marion Creek, Sahilyolu",Sahilyolu,+00 5775019569,SY-8257179,J-115,konut,0.0,97.82,2026-11-28,R07
+AB-100019,Simon Jones,"975 Williams Stravenue, Sahilyolu",Sahilyolu,+00 5227828825,SY-8869139,J-116,konut,0.0,74.72,2026-11-28,R08
+AB-100020,Marilyn Anderson,"08 Lee Locks, Sahilyolu",Sahilyolu,+00 5131448592,SY-8332351,J-117,konut,264.42,63.7,2026-11-28,R09
+AB-100021,Stewart Johnson,"Flat 98O Davies Manor, Sahilyolu",Sahilyolu,+00 5383696147,SY-9748375,J-118,işyeri,0.0,50.98,2026-11-28,R10
+AB-100022,Francis Smith,"5 Georgina Stream, Sahilyolu",Sahilyolu,+00 5886731225,SY-4608230,J-119,işyeri,257.64,38.91,2026-11-28,R11
+AB-100023,Mr Anthony Newman,"Flat 87y Ryan Tunnel, Sahilyolu",Sahilyolu,+00 5907488805,SY-4831200,J-120,konut,0.0,109.33,2026-11-28,R12
+AB-100024,Hilary Leonard-Gough,"Flat 24 Fiona Estates, Sahilyolu",Sahilyolu,+00 5792832114,SY-6957487,J-121,konut,0.0,67.13,2026-11-28,R01
+AB-100025,Tina Watts,"Studio 7 Geraldine Plains, Sahilyolu",Sahilyolu,+00 5932453961,SY-6209313,J-122,konut,102.98,117.52,2026-11-28,R02
+AB-100026,Norman Green,"Studio 04g Davis Parks, Yeşilova",Yeşilova,+00 5409494608,SY-7553054,J-123,işyeri,0.0,99.32,2026-11-28,R03
+AB-100027,Kerry Moss,"Studio 5 Hicks Camp, Yeşilova",Yeşilova,+00 5980784136,SY-7294602,J-124,konut,0.0,73.04,2026-11-28,R04
+AB-100028,Barry Hyde-Holmes,"Studio 54 Ross Tunnel, Gölbaşı",Gölbaşı,+00 5237505086,SY-4830936,J-125,konut,0.0,115.08,2026-11-28,R05
+AB-100029,Ms Sally Collins,"Flat 2 Baker Mall, Yeşilova",Yeşilova,+00 5517092254,SY-7758722,J-126,konut,0.0,43.64,2026-11-28,R06
+AB-100030,Miss Frances Bell,"Studio 1 Douglas Garden, Yeşilova",Yeşilova,+00 5386159247,SY-3610072,J-127,işyeri,0.0,61.3,2026-11-28,R07
+AB-100031,Dean Leach,"Studio 25W Hollie Path, Yeşilova",Yeşilova,+00 5222939511,SY-4345951,J-128,konut,0.0,114.66,2026-11-28,R08
+AB-100032,Dr Terry Harris,"3 Gareth Common, Sahilyolu",Sahilyolu,+00 5267569703,SY-7613570,J-129,konut,0.0,99.78,2026-11-28,R09
+AB-100033,Luke Williams,"Flat 42u Patel Lodge, Sahilyolu",Sahilyolu,+00 5971851601,SY-8523308,J-130,konut,0.0,114.61,2026-11-28,R10
+AB-100034,Ms Nicola Edwards,"22 Lynne Spurs, Sahilyolu",Sahilyolu,+00 5935136014,SY-1434098,J-131,konut,26.24,44.33,2026-11-28,R11
+AB-100035,Mrs Julie Allen,"35 Bull Burgs, Sahilyolu",Sahilyolu,+00 5660052574,SY-6750928,J-132,konut,84.11,38.58,2026-11-28,R12
+AB-100036,Christopher Kennedy-Morrison,"419 Williamson Mountain, Sahilyolu",Sahilyolu,+00 5622583929,SY-2198114,J-133,işyeri,0.0,112.67,2026-11-28,R01
+AB-100037,Mr Leigh Fraser,"Flat 03 Donald Path, Sahilyolu",Sahilyolu,+00 5605057064,SY-1601984,J-134,işyeri,0.0,116.75,2026-11-28,R02
+AB-100038,Tracy Walker,"60 Gavin Skyway, Sahilyolu",Sahilyolu,+00 5522308360,SY-5981388,J-135,işyeri,231.29,59.66,2026-11-28,R03
+AB-100039,Jordan Brown,"7 Philip Park, Sahilyolu",Sahilyolu,+00 5693572799,SY-8141248,J-136,konut,0.0,109.52,2026-11-28,R04
+AB-100040,Jessica Coleman-Miah,"5 Hall Burg, Sahilyolu",Sahilyolu,+00 5199672109,SY-7717524,J-137,konut,70.83,41.54,2026-11-28,R05
+AB-100041,Dawn French,"Studio 35 Josephine Ridge, Sahilyolu",Sahilyolu,+00 5583822584,SY-5529804,J-138,konut,110.01,26.71,2026-11-28,R06
+AB-100042,Judith Price,"Studio 2 Reece Green, Sahilyolu",Sahilyolu,+00 5569579661,SY-4452165,J-139,konut,0.0,65.0,2026-11-28,R07
+AB-100043,Mrs Diana Johnson,"25 Leonard Islands, Çınarlık",Çınarlık,+00 5331700278,SY-8663017,J-13a,konut,153.06,93.75,2026-11-28,R08
+AB-100044,Jake Baxter,"Studio 49W Damian Via, Sahilyolu",Sahilyolu,+00 5764760556,SY-7403295,J-13b,işyeri,0.0,43.48,2026-11-28,R09
+AB-100045,Holly Ellis,"Flat 93 Kenneth Crossing, Gölbaşı",Gölbaşı,+00 5574888981,SY-6892217,J-14,konut,0.0,21.46,2026-11-28,R10
+AB-100046,Dr Trevor Brown,"Studio 42 Shaw Valleys, Sahilyolu",Sahilyolu,+00 5973458684,SY-2449531,J-140,işyeri,0.0,116.86,2026-11-28,R11
+AB-100047,Mrs Susan Davis,"Studio 4 Benjamin Lights, Değirmendere",Değirmendere,+00 5479506570,SY-7311830,J-141,konut,0.0,83.87,2026-11-28,R12
+AB-100048,Paige Baker,"75 Elliot Walk, Sahilyolu",Sahilyolu,+00 5970829468,SY-4430063,J-142,işyeri,0.0,39.17,2026-11-28,R01
+AB-100049,Damien Davies,"Flat 07q Gregory Lake, Sahilyolu",Sahilyolu,+00 5979110170,SY-1270979,J-143,konut,0.0,118.66,2026-11-28,R02
+AB-100050,Ms Lynne Clarke,"Studio 12h Lloyd Wells, Sahilyolu",Sahilyolu,+00 5435255085,SY-6133887,J-144,konut,0.0,80.58,2026-11-28,R03
+AB-100051,Dr Lydia Smith,"4 Burton Forges, Sahilyolu",Sahilyolu,+00 5221058880,SY-1908302,J-145,işyeri,134.39,78.15,2026-11-28,R04
+AB-100052,Emma Roberts,"Flat 3 Spencer Lodge, Sahilyolu",Sahilyolu,+00 5135872698,SY-2151899,J-146,işyeri,390.64,81.81,2026-11-28,R05
+AB-100053,Owen Fisher,"Studio 2 Conor Trace, Sahilyolu",Sahilyolu,+00 5575306878,SY-5459253,J-147,konut,328.51,106.85,2026-11-28,R06
+AB-100054,Mark Macdonald,"253 Williams Glen, Sahilyolu",Sahilyolu,+00 5656264877,SY-3110133,J-148,konut,306.19,34.26,2026-11-28,R07
+AB-100055,Stephanie Hayward,"Flat 36t Henry River, Değirmendere",Değirmendere,+00 5642664509,SY-2259532,J-149,konut,0.0,17.5,2026-11-28,R08
+AB-100056,Andrew Evans,"Studio 8 Debra Estates, Gölbaşı",Gölbaşı,+00 5937565940,SY-8601108,J-15,konut,0.0,29.24,2026-11-28,R09
+AB-100057,Ryan Gould,"5 Abbie Flat, Değirmendere",Değirmendere,+00 5956194501,SY-1892536,J-150,konut,0.0,50.63,2026-11-28,R10
+AB-100058,Paula Collins,"Flat 5 Oliver Terrace, Yeşilova",Yeşilova,+00 5181637378,SY-2879795,J-151,işyeri,0.0,99.82,2026-11-28,R11
+AB-100059,Victor Barry,"5 Page Estates, Yeşilova",Yeşilova,+00 5112475470,SY-6754161,J-152,işyeri,146.72,49.66,2026-11-28,R12
+AB-100060,Bethan Hall,"87 Davidson Port, Çınarlık",Çınarlık,+00 5385071560,SY-1304163,J-153,konut,244.69,119.0,2026-11-28,R01
+AB-100061,Antony Harrison-Chadwick,"Studio 96t Ashley Street, Çınarlık",Çınarlık,+00 5554357611,SY-7275592,J-154,konut,0.0,114.74,2026-11-28,R02
+AB-100062,Mr Gordon Howells,"Studio 4 Moore Grove, Sahilyolu",Sahilyolu,+00 5499057609,SY-3332166,J-155,konut,0.0,49.21,2026-11-28,R03
+AB-100063,Douglas Phillips-Hopkins,"Studio 35L Duffy Burgs, Sahilyolu",Sahilyolu,+00 5189098626,SY-4924286,J-156,işyeri,0.0,48.52,2026-11-28,R04
+AB-100064,Charlie Sykes,"Flat 7 Hall Mews, Sahilyolu",Sahilyolu,+00 5739779487,SY-5861572,J-157,işyeri,0.0,113.31,2026-11-28,R05
+AB-100065,Maureen Lewis,"49 Dobson Drive, Çınarlık",Çınarlık,+00 5820480123,SY-2623581,J-158,konut,0.0,64.98,2026-11-28,R06
+AB-100066,Jamie Daly,"90 Hughes Prairie, Sahilyolu",Sahilyolu,+00 5286837522,SY-5530718,J-159,işyeri,0.0,85.94,2026-11-28,R07
+AB-100067,Victor Cooke,"Flat 0 Nicholas Rest, Sahilyolu",Sahilyolu,+00 5700485836,SY-7152462,J-160,konut,0.0,86.39,2026-11-28,R08
+AB-100068,Iain Cook,"215 Preston Lights, Sahilyolu",Sahilyolu,+00 5196300614,SY-9104320,J-161,işyeri,0.0,78.36,2026-11-28,R09
+AB-100069,Sam North,"2 Walters Dam, Sahilyolu",Sahilyolu,+00 5503917002,SY-2580094,J-162,konut,0.0,47.77,2026-11-28,R10
+AB-100070,Mr Derek Greenwood,"776 Malcolm Radial, Sahilyolu",Sahilyolu,+00 5345206590,SY-2756125,J-163,konut,0.0,52.82,2026-11-28,R11
+AB-100071,Robert Evans,"Flat 5 Johnson Prairie, Yeşilova",Yeşilova,+00 5754182924,SY-3878236,J-164,konut,0.0,25.06,2026-11-28,R12
+AB-100072,Guy Baker,"0 Brown River, Sahilyolu",Sahilyolu,+00 5428995689,SY-4997190,J-165,işyeri,0.0,83.8,2026-11-28,R01
+AB-100073,Ellie Law,"Flat 0 Spencer Lakes, Sahilyolu",Sahilyolu,+00 5749684042,SY-5646081,J-166,konut,0.0,82.85,2026-11-28,R02
+AB-100074,Hollie Whitehead,"41 Holmes Grove, Sahilyolu",Sahilyolu,+00 5227051623,SY-4935447,J-167,işyeri,0.0,46.28,2026-11-28,R03
+AB-100075,Lauren Palmer,"028 Walker Spring, Sahilyolu",Sahilyolu,+00 5181663391,SY-1760810,J-168,konut,0.0,81.22,2026-11-28,R04
+AB-100076,Dr Dominic Payne,"Flat 24t Maria Village, Çınarlık",Çınarlık,+00 5712078738,SY-8863752,J-169,konut,31.37,115.96,2026-11-28,R05
+AB-100077,Mr Nathan Griffiths,"Flat 6 James Mission, Değirmendere",Değirmendere,+00 5883355171,SY-8859972,J-17,konut,0.0,44.29,2026-11-28,R06
+AB-100078,Mrs Ruth Carter,"Flat 66 Richard Green, Değirmendere",Değirmendere,+00 5165731431,SY-9707881,J-170,işyeri,0.0,69.08,2026-11-28,R07
+AB-100079,Abbie Watts,"Flat 0 Rowe Meadows, Değirmendere",Değirmendere,+00 5247648666,SY-4339289,J-171,konut,234.55,57.49,2026-11-28,R08
+AB-100080,Mr Darren Kirby,"3 Jones Shoals, Gölbaşı",Gölbaşı,+00 5540151579,SY-3453598,J-172,konut,242.07,63.53,2026-11-28,R09
+AB-100081,Karl Jones,"Flat 29s Peter Cliff, Yeşilova",Yeşilova,+00 5982759885,SY-4327276,J-173,konut,87.96,17.28,2026-11-28,R10
+AB-100082,Mandy Lord-Morgan,"Studio 89 Aimee Green, Yeşilova",Yeşilova,+00 5214058228,SY-5152776,J-174,konut,0.0,118.87,2026-11-28,R11
+AB-100083,Mary Stephenson-Pearce,"735 Knight Course, Sahilyolu",Sahilyolu,+00 5596443173,SY-6596213,J-175,konut,0.0,25.6,2026-11-28,R12
+AB-100084,Ms Pauline Ryan,"50 David Forge, Sahilyolu",Sahilyolu,+00 5802181408,SY-3278547,J-176,konut,342.28,63.64,2026-11-28,R01
+AB-100085,Keith Roberts,"Studio 60y Elliott Grove, Sahilyolu",Sahilyolu,+00 5836060657,SY-7137428,J-177,konut,0.0,115.22,2026-11-28,R02
+AB-100086,Matthew Mills,"044 Pauline Fall, Sahilyolu",Sahilyolu,+00 5981331964,SY-9092974,J-178,işyeri,0.0,36.19,2026-11-28,R03
+AB-100087,Dr Anthony Elliott,"Flat 0 Whittaker Crossroad, Sahilyolu",Sahilyolu,+00 5569946582,SY-5681667,J-179,konut,0.0,91.41,2026-11-28,R04
+AB-100088,Colin Vaughan,"1 Williams Groves, Sahilyolu",Sahilyolu,+00 5782658417,SY-8175210,J-180,işyeri,0.0,21.01,2026-11-28,R05
+AB-100089,Steven Thomas,"Studio 76 Lucy Bridge, Sahilyolu",Sahilyolu,+00 5654366635,SY-6795949,J-181,işyeri,198.19,89.95,2026-11-28,R06
+AB-100090,Elliot Patel,"39 Elliott Camp, Değirmendere",Değirmendere,+00 5690984214,SY-5529261,J-182,işyeri,0.0,17.87,2026-11-28,R07
+AB-100091,William Knowles,"Studio 3 Scott Shoal, Değirmendere",Değirmendere,+00 5368513432,SY-9288198,J-183,konut,0.0,104.76,2026-11-28,R08
+AB-100092,Dr Mohammad Powell,"Flat 58 Charlton Drives, Sahilyolu",Sahilyolu,+00 5932250278,SY-3462459,J-184,konut,123.01,52.63,2026-11-28,R09
+AB-100093,Dr Christian Lloyd,"Studio 8 Paula Road, Sahilyolu",Sahilyolu,+00 5200960774,SY-7498671,J-186,işyeri,0.0,91.09,2026-11-28,R10
+AB-100094,Dr Roger Graham,"6 Brian Locks, Sahilyolu",Sahilyolu,+00 5205840982,SY-3776058,J-187,konut,0.0,86.75,2026-11-28,R11
+AB-100095,Alexandra Curtis,"8 Preston Track, Değirmendere",Değirmendere,+00 5733151079,SY-1748810,J-188,konut,0.0,36.95,2026-11-28,R12
+AB-100096,Jeremy Davies,"3 Campbell Circle, Çınarlık",Çınarlık,+00 5479089507,SY-9973002,J-189,konut,0.0,15.55,2026-11-28,R01
+AB-100097,Clare Burrows,"Studio 2 Nash Street, Yeşilova",Yeşilova,+00 5578416434,SY-7312870,J-19,işyeri,0.0,43.7,2026-11-28,R02
+AB-100098,Jessica Baker,"Studio 54 James Rapid, Çınarlık",Çınarlık,+00 5490320720,SY-4260859,J-190,işyeri,0.0,32.39,2026-11-28,R03
+AB-100099,Dr Reece Hurst,"Flat 28Z Francis Islands, Sahilyolu",Sahilyolu,+00 5739286307,SY-3663364,J-191,işyeri,0.0,37.38,2026-11-28,R04
+AB-100100,Robert Turner,"60 Jane Groves, Sahilyolu",Sahilyolu,+00 5130264892,SY-3559670,J-192,konut,0.0,55.38,2026-11-28,R05
+AB-100101,Margaret Rogers-Barrett,"Flat 13n Butler Rapids, Çınarlık",Çınarlık,+00 5480299667,SY-6752750,J-193,konut,0.0,60.64,2026-11-28,R06
+AB-100102,Garry Thompson,"Studio 9 Jones Green, Sahilyolu",Sahilyolu,+00 5370316483,SY-6760585,J-194,konut,0.0,35.9,2026-11-28,R07
+AB-100103,Ruth Young,"8 Booth Mission, Sahilyolu",Sahilyolu,+00 5375592479,SY-5753112,J-195,konut,0.0,100.64,2026-11-28,R08
+AB-100104,Aimee Brown,"Flat 02 Jack Road, Sahilyolu",Sahilyolu,+00 5104300889,SY-6116360,J-196,konut,0.0,86.0,2026-11-28,R09
+AB-100105,Gillian Walker-Lee,"48 Jordan Village, Sahilyolu",Sahilyolu,+00 5660909490,SY-5896366,J-197,işyeri,0.0,119.11,2026-11-28,R10
+AB-100106,Richard Ball-Ford,"8 Hannah Coves, Sahilyolu",Sahilyolu,+00 5849460166,SY-4096650,J-198,konut,0.0,99.81,2026-11-28,R11
+AB-100107,Helen Elliott,"Flat 51 Maria Square, Çınarlık",Çınarlık,+00 5713194429,SY-5670561,J-199,konut,0.0,107.02,2026-11-28,R12
+AB-100108,Mr Frederick Scott,"Flat 03d Griffiths Passage, Kuzeytepe",Kuzeytepe,+00 5455319077,SY-7533549,J-2,konut,0.0,28.63,2026-11-28,R01
+AB-100109,Dr Conor Nixon,"636 Baxter Walks, Çınarlık",Çınarlık,+00 5621169415,SY-9687211,J-200,konut,0.0,57.16,2026-11-28,R02
+AB-100110,Richard Porter-Williams,"467 Paige Rue, Sahilyolu",Sahilyolu,+00 5966836956,SY-9133988,J-201,konut,0.0,25.55,2026-11-28,R03
+AB-100111,Dr Pamela Sanders,"Flat 36 Taylor Forge, Gölbaşı",Gölbaşı,+00 5269384815,SY-8434329,J-202,konut,0.0,111.26,2026-11-28,R04
+AB-100112,Mrs Maria Gardner,"722 Lisa Hollow, Gölbaşı",Gölbaşı,+00 5156209529,SY-6683374,J-203,işyeri,0.0,104.12,2026-11-28,R05
+AB-100113,Gemma Gregory,"Flat 78 Wilkinson Lakes, Çınarlık",Çınarlık,+00 5596555910,SY-8574434,J-204,konut,0.0,100.96,2026-11-28,R06
+AB-100114,Anna Blackburn,"Flat 97Y Woods Ramp, Çınarlık",Çınarlık,+00 5629073866,SY-6832076,J-205,konut,0.0,49.01,2026-11-28,R07
+AB-100115,Malcolm Cook,"028 Brown Path, Kuzeytepe",Kuzeytepe,+00 5676041162,SY-2219232,J-206,konut,0.0,75.73,2026-11-28,R08
+AB-100116,Joe Clarke,"247 Williamson Village, Kuzeytepe",Kuzeytepe,+00 5905505332,SY-8540998,J-207,konut,268.26,78.35,2026-11-28,R09
+AB-100117,Ashleigh Payne,"3 Perry Branch, Kuzeytepe",Kuzeytepe,+00 5199841645,SY-4012157,J-208,konut,0.0,92.87,2026-11-28,R10
+AB-100118,Dr Kevin Bull,"39 Bennett Island, Kuzeytepe",Kuzeytepe,+00 5533094343,SY-7187619,J-209,konut,0.0,36.11,2026-11-28,R11
+AB-100119,Marilyn Barker,"Flat 40J Joe Highway, Gölbaşı",Gölbaşı,+00 5471378113,SY-5796870,J-21,işyeri,0.0,32.36,2026-11-28,R12
+AB-100120,Susan Leach,"Studio 5 Henry Unions, Değirmendere",Değirmendere,+00 5401042308,SY-4517768,J-210,konut,0.0,45.74,2026-11-28,R01
+AB-100121,Helen Dixon-Gray,"4 Jones Place, Değirmendere",Değirmendere,+00 5139402283,SY-1297937,J-211,konut,0.0,98.51,2026-11-28,R02
+AB-100122,Andrew Smith,"2 Gibbs Street, Kuzeytepe",Kuzeytepe,+00 5559511261,SY-3700210,J-212,konut,0.0,82.1,2026-11-28,R03
+AB-100123,Ryan Slater-Lane,"08 Hall Junction, Kuzeytepe",Kuzeytepe,+00 5874690583,SY-3695982,J-213,konut,0.0,31.2,2026-11-28,R04
+AB-100124,Mr Donald Jones,"Studio 30Z Dawn Ferry, Sahilyolu",Sahilyolu,+00 5347928240,SY-5184658,J-214,konut,0.0,37.82,2026-11-28,R05
+AB-100125,Joanna Smith,"2 Turner Road, Sahilyolu",Sahilyolu,+00 5132709101,SY-6941028,J-215,konut,234.38,42.35,2026-11-28,R06
+AB-100126,Ben Harding-Taylor,"Flat 8 Janice Gardens, Sahilyolu",Sahilyolu,+00 5475928435,SY-3422737,J-216,konut,0.0,85.21,2026-11-28,R07
+AB-100127,Dr Bryan Stone,"5 Hayley Loop, Sahilyolu",Sahilyolu,+00 5105391151,SY-7145410,J-217,işyeri,0.0,100.59,2026-11-28,R08
+AB-100128,Francis Scott,"293 Donald Mountains, Çınarlık",Çınarlık,+00 5736928091,SY-1461586,J-218,işyeri,0.0,29.95,2026-11-28,R09
+AB-100129,Colin Wheeler,"Flat 42L Page Extensions, Çınarlık",Çınarlık,+00 5992241424,SY-5116074,J-219,konut,0.0,59.21,2026-11-28,R10
+AB-100130,Charles Roberts-Leonard,"Studio 26z Katy Center, Kuzeytepe",Kuzeytepe,+00 5595794087,SY-4310764,J-22,işyeri,0.0,96.25,2026-11-28,R11
+AB-100131,Mr Max Oliver,"64 Debra Mills, Sahilyolu",Sahilyolu,+00 5850103371,SY-9711912,J-220,işyeri,0.0,91.64,2026-11-28,R12
+AB-100132,Dr Bruce John,"59 Tyler Shoals, Sahilyolu",Sahilyolu,+00 5423099726,SY-2649443,J-221,konut,0.0,28.56,2026-11-28,R01
+AB-100133,Benjamin Reynolds-Matthews,"Flat 3 Smith Cape, Sahilyolu",Sahilyolu,+00 5622244178,SY-9641615,J-222,işyeri,286.59,109.01,2026-11-28,R02
+AB-100134,Stewart Hayward,"37 Keith Avenue, Gölbaşı",Gölbaşı,+00 5743747583,SY-7285338,J-223,konut,0.0,97.21,2026-11-28,R03
+AB-100135,Rhys Stephenson,"Studio 61q Emma Springs, Gölbaşı",Gölbaşı,+00 5581460255,SY-7773025,J-224,konut,98.14,44.18,2026-11-28,R04
+AB-100136,Nicola Dale,"Flat 6 Craig Fork, Çınarlık",Çınarlık,+00 5389680510,SY-3813544,J-225,işyeri,0.0,40.18,2026-11-28,R05
+AB-100137,Mrs Marie Brookes,"731 Ruth Mall, Çınarlık",Çınarlık,+00 5340948636,SY-6089377,J-226,konut,0.0,110.07,2026-11-28,R06
+AB-100138,Dr Mohamed Rose,"Studio 49j Young Crossroad, Sahilyolu",Sahilyolu,+00 5430138854,SY-6242921,J-227,konut,0.0,19.54,2026-11-28,R07
+AB-100139,Miss Jasmine Knowles,"15 Miles Gardens, Sahilyolu",Sahilyolu,+00 5229801730,SY-4129167,J-228,konut,0.0,98.82,2026-11-28,R08
+AB-100140,Mohamed Harrison,"Flat 82Z Kay Path, Sahilyolu",Sahilyolu,+00 5654373503,SY-2458303,J-229,işyeri,0.0,62.68,2026-11-28,R09
+AB-100141,Diana McDonald,"Flat 1 Woodward Ridge, Kuzeytepe",Kuzeytepe,+00 5905358840,SY-9813231,J-23,konut,0.0,104.37,2026-11-28,R10
+AB-100142,Joe Gray,"8 Evans Forges, Sahilyolu",Sahilyolu,+00 5765531645,SY-5802664,J-230,konut,344.62,17.76,2026-11-28,R11
+AB-100143,Dr Kate Davies,"Flat 1 Carter Shore, Gölbaşı",Gölbaşı,+00 5363533585,SY-3120225,J-231,konut,294.85,49.29,2026-11-28,R12
+AB-100144,Dr Chelsea Daniels,"Flat 7 Freeman Shores, Çınarlık",Çınarlık,+00 5548780840,SY-4993207,J-234,konut,0.0,25.63,2026-11-28,R01
+AB-100145,Iain Davidson,"Flat 5 Tom Centers, Değirmendere",Değirmendere,+00 5297103043,SY-3302509,J-235,konut,0.0,43.07,2026-11-28,R02
+AB-100146,Dr Gregory Price,"0 Burns Trail, Değirmendere",Değirmendere,+00 5255621841,SY-6066067,J-236,konut,198.25,27.67,2026-11-28,R03
+AB-100147,Trevor North,"2 Fisher Avenue, Sahilyolu",Sahilyolu,+00 5839587601,SY-6196675,J-237,işyeri,212.46,45.9,2026-11-28,R04
+AB-100148,David Thomas,"Flat 67 Josh Forks, Sahilyolu",Sahilyolu,+00 5875996647,SY-3514224,J-238,konut,0.0,64.74,2026-11-28,R05
+AB-100149,Vincent Alexander,"Studio 66 Dale Squares, Sahilyolu",Sahilyolu,+00 5957534269,SY-8297992,J-239,işyeri,0.0,50.91,2026-11-28,R06
+AB-100150,Dominic Thornton,"434 Clive View, Sahilyolu",Sahilyolu,+00 5795107767,SY-1867451,J-24,konut,0.0,111.48,2026-11-28,R07
+AB-100151,Mr Ross Lee,"Studio 09 Joe Avenue, Sahilyolu",Sahilyolu,+00 5724891028,SY-7165804,J-240,konut,382.49,46.68,2026-11-28,R08
+AB-100152,Miss Deborah Hardy,"993 Hewitt Forest, Sahilyolu",Sahilyolu,+00 5323987339,SY-8046144,J-241,konut,0.0,78.45,2026-11-28,R09
+AB-100153,Michael Gilbert,"Flat 09x Smith Road, Sahilyolu",Sahilyolu,+00 5720752904,SY-6922739,J-242,konut,159.26,71.28,2026-11-28,R10
+AB-100154,Karl Slater,"Studio 2 Mohamed Plaza, Çınarlık",Çınarlık,+00 5711481259,SY-3825606,J-243,konut,0.0,77.54,2026-11-28,R11
+AB-100155,Miss Carolyn Hanson,"Studio 26q Frances Coves, Çınarlık",Çınarlık,+00 5334032809,SY-8476904,J-244,işyeri,0.0,79.87,2026-11-28,R12
+AB-100156,Andrew Webster,"Studio 3 Mandy Lights, Çınarlık",Çınarlık,+00 5357229086,SY-8257564,J-245,konut,0.0,93.22,2026-11-28,R01
+AB-100157,Jessica Matthews-Russell,"Studio 9 Reid Unions, Çınarlık",Çınarlık,+00 5107077754,SY-5751650,J-246,konut,307.16,52.97,2026-11-28,R02
+AB-100158,Mr Marcus Bond,"Flat 88 Peter Shores, Gölbaşı",Gölbaşı,+00 5437560949,SY-3310840,J-247,işyeri,0.0,50.29,2026-11-28,R03
+AB-100159,Dr Rhys Joyce,"9 Donald Tunnel, Gölbaşı",Gölbaşı,+00 5333228401,SY-1473229,J-248,konut,0.0,70.84,2026-11-28,R04
+AB-100160,Sophie Forster,"Flat 4 Teresa Loop, Sahilyolu",Sahilyolu,+00 5364904354,SY-6576658,J-249,konut,0.0,97.38,2026-11-28,R05
+AB-100161,Miss Ann Bates,"1 Beverley Glens, Sahilyolu",Sahilyolu,+00 5577907834,SY-2309063,J-25,konut,198.5,56.92,2026-11-28,R06
+AB-100162,Dr Jacob Evans,"8 Clare Loaf, Sahilyolu",Sahilyolu,+00 5505688720,SY-2108010,J-250,işyeri,51.62,73.92,2026-11-28,R07
+AB-100163,Lindsey Cartwright,"Studio 23w Russell Alley, Sahilyolu",Sahilyolu,+00 5247073493,SY-9032851,J-251,işyeri,0.0,105.54,2026-11-28,R08
+AB-100164,Abdul Wilkins,"Studio 71n Jacob Path, Sahilyolu",Sahilyolu,+00 5489079639,SY-8923274,J-252,konut,0.0,79.48,2026-11-28,R09
+AB-100165,Mrs Emily Rogers,"Flat 51d Sian Ridge, Sahilyolu",Sahilyolu,+00 5529513614,SY-2818865,J-253,konut,0.0,61.08,2026-11-28,R10
+AB-100166,Dr Derek Marshall,"2 Thornton Rapids, Sahilyolu",Sahilyolu,+00 5942628257,SY-6804545,J-254,konut,0.0,79.79,2026-11-28,R11
+AB-100167,Francesca Smith,"331 Julie Springs, Sahilyolu",Sahilyolu,+00 5742437861,SY-4603369,J-255,konut,247.91,61.83,2026-11-28,R12
+AB-100168,Grace Mistry,"7 Hawkins Hills, Sahilyolu",Sahilyolu,+00 5299802510,SY-8503328,J-256,konut,0.0,70.85,2026-11-28,R01
+AB-100169,Georgina Greenwood,"890 Jones Plains, Sahilyolu",Sahilyolu,+00 5152595710,SY-9658068,J-257,konut,0.0,98.11,2026-11-28,R02
+AB-100170,Molly Mason-Roberts,"Studio 03 Tomlinson Club, Sahilyolu",Sahilyolu,+00 5586283580,SY-2461617,J-258,konut,0.0,95.8,2026-11-28,R03
+AB-100171,Beth Williamson,"001 Elliott Center, Sahilyolu",Sahilyolu,+00 5244071191,SY-6337943,J-259,konut,0.0,40.39,2026-11-28,R04
+AB-100172,Beth Murphy,"985 Spencer Rest, Sahilyolu",Sahilyolu,+00 5657304791,SY-9093890,J-26,konut,0.0,35.88,2026-11-28,R05
+AB-100173,Dr Ashleigh Turner,"Flat 1 Curtis Throughway, Sahilyolu",Sahilyolu,+00 5980580334,SY-8474925,J-260,konut,324.41,36.54,2026-11-28,R06
+AB-100174,Dr Mary Thomas,"Studio 3 Richards Crossing, Sahilyolu",Sahilyolu,+00 5761286692,SY-8299944,J-261,konut,0.0,92.04,2026-11-28,R07
+AB-100175,Katherine Morris,"Studio 1 Holland Glen, Yeşilova",Yeşilova,+00 5345085608,SY-2315713,J-262,işyeri,0.0,74.28,2026-11-28,R08
+AB-100176,Amber Jackson-Kent,"515 Jemma Parkway, Yeşilova",Yeşilova,+00 5616723015,SY-1721953,J-263,konut,0.0,71.35,2026-11-28,R09
+AB-100177,Charlene Matthews,"Flat 29 Laura Plains, Sahilyolu",Sahilyolu,+00 5934563623,SY-5319199,J-264,konut,0.0,29.51,2026-11-28,R10
+AB-100178,Wendy Barker,"Flat 03 Harris Brooks, Sahilyolu",Sahilyolu,+00 5873522033,SY-2925247,J-265,işyeri,0.0,58.7,2026-11-28,R11
+AB-100179,Miss Beverley Simmons,"2 Stewart Orchard, Sahilyolu",Sahilyolu,+00 5581607522,SY-4789567,J-266,konut,0.0,113.82,2026-11-28,R12
+AB-100180,Bryan Moore,"Studio 76 Rachael Pine, Sahilyolu",Sahilyolu,+00 5578057527,SY-7633154,J-267,konut,161.98,80.83,2026-11-28,R01
+AB-100181,Carl Ferguson,"24 Hughes Underpass, Sahilyolu",Sahilyolu,+00 5711595520,SY-5172431,J-268,konut,0.0,74.28,2026-11-28,R02
+AB-100182,Mr Malcolm Mills,"392 Kaur Islands, Sahilyolu",Sahilyolu,+00 5709875262,SY-2567666,J-269,konut,0.0,58.44,2026-11-28,R03
+AB-100183,Miss Geraldine Robson,"Flat 7 Janice Turnpike, Sahilyolu",Sahilyolu,+00 5388852591,SY-3107407,J-27,konut,0.0,18.59,2026-11-28,R04
+AB-100184,Mr Declan Moore,"Studio 61p Ryan Isle, Sahilyolu",Sahilyolu,+00 5385628831,SY-5177795,J-270,konut,0.0,85.97,2026-11-28,R05
+AB-100185,Tracy Rogers,"37 Gordon Park, Sahilyolu",Sahilyolu,+00 5100583851,SY-9369261,J-271,konut,0.0,99.0,2026-11-28,R06
+AB-100186,Ryan Jones,"Studio 29 Allan Streets, Sahilyolu",Sahilyolu,+00 5411667806,SY-3073868,J-272,işyeri,0.0,40.3,2026-11-28,R07
+AB-100187,Elliott Jones,"8 Beverley Hills, Sahilyolu",Sahilyolu,+00 5636646308,SY-4283873,J-273,konut,0.0,103.24,2026-11-28,R08
+AB-100188,Gregory Roberts-Brown,"Flat 6 Collins Station, Sahilyolu",Sahilyolu,+00 5352880409,SY-1299631,J-274,konut,374.78,71.15,2026-11-28,R09
+AB-100189,Lynn Foster,"Flat 27 Hodgson Hollow, Sahilyolu",Sahilyolu,+00 5784487454,SY-9311171,J-275,işyeri,0.0,33.66,2026-11-28,R10
+AB-100190,Albert Chamberlain-Jackson,"2 Douglas Well, Kuzeytepe",Kuzeytepe,+00 5201975779,SY-6691712,J-276,konut,0.0,23.83,2026-11-28,R11
+AB-100191,Joshua Taylor,"07 Lesley Springs, Sahilyolu",Sahilyolu,+00 5420451262,SY-4179003,J-277,işyeri,0.0,85.17,2026-11-28,R12
+AB-100192,Mrs Hayley Harvey,"0 William Freeway, Sahilyolu",Sahilyolu,+00 5582868865,SY-7325639,J-278,konut,0.0,46.4,2026-11-28,R01
+AB-100193,Shirley Lawrence,"Studio 60 Sean Shoal, Değirmendere",Değirmendere,+00 5334770449,SY-3105198,J-279,konut,348.27,97.51,2026-11-28,R02
+AB-100194,Jessica Hunter,"Flat 74 Hill Forest, Sahilyolu",Sahilyolu,+00 5586253210,SY-9775210,J-28,konut,313.29,16.66,2026-11-28,R03
+AB-100195,Ms Lauren Walker,"17 Kyle Summit, Sahilyolu",Sahilyolu,+00 5860616893,SY-2881889,J-280,konut,0.0,81.3,2026-11-28,R04
+AB-100196,Leanne Collins-Begum,"Studio 7 Anderson Points, Sahilyolu",Sahilyolu,+00 5208213107,SY-5867226,J-282,işyeri,0.0,49.21,2026-11-28,R05
+AB-100197,Mrs Hilary Sullivan,"Flat 51f Jenkins Greens, Sahilyolu",Sahilyolu,+00 5719171359,SY-4865473,J-283,konut,0.0,33.48,2026-11-28,R06
+AB-100198,Dr Roy Pearce,"1 Marcus Forge, Sahilyolu",Sahilyolu,+00 5822112317,SY-9719592,J-284,konut,0.0,92.21,2026-11-28,R07
+AB-100199,Lewis Taylor,"Flat 8 Walker Lake, Sahilyolu",Sahilyolu,+00 5657367021,SY-8548684,J-285,işyeri,0.0,104.17,2026-11-28,R08
+AB-100200,Janice Thompson,"432 Middleton Run, Sahilyolu",Sahilyolu,+00 5344177904,SY-5849625,J-286,konut,263.14,107.43,2026-11-28,R09
+AB-100201,Shane Charlton,"8 Scott Meadows, Sahilyolu",Sahilyolu,+00 5119301153,SY-8268704,J-287,konut,0.0,62.47,2026-11-28,R10
+AB-100202,Marc Taylor,"Studio 7 Lydia Lodge, Kuzeytepe",Kuzeytepe,+00 5742889099,SY-7426055,J-288,konut,157.84,42.98,2026-11-28,R11
+AB-100203,Rosie Green,"Studio 01 Linda Manor, Kuzeytepe",Kuzeytepe,+00 5674724244,SY-4675959,J-289,işyeri,0.0,84.37,2026-11-28,R12
+AB-100204,Dr Billy Cooper,"Flat 0 Hunter Trafficway, Yeşilova",Yeşilova,+00 5401124524,SY-9588601,J-29,konut,0.0,65.76,2026-11-28,R01
+AB-100205,June Lewis,"Studio 6 Julie Plains, Çınarlık",Çınarlık,+00 5273142660,SY-1822085,J-290,konut,0.0,27.1,2026-11-28,R02
+AB-100206,Mohamed Fitzgerald,"Flat 79 Alan Loaf, Çınarlık",Çınarlık,+00 5812505487,SY-5179723,J-291,konut,212.5,69.52,2026-11-28,R03
+AB-100207,Mrs Samantha Moore,"9 Marion Mount, Sahilyolu",Sahilyolu,+00 5915011542,SY-2397379,J-292,konut,0.0,78.62,2026-11-28,R04
+AB-100208,Mr Liam Johnston,"2 Leslie Crossing, Sahilyolu",Sahilyolu,+00 5117473441,SY-7958852,J-293,konut,0.0,28.36,2026-11-28,R05
+AB-100209,Mr Roger Cole,"Studio 40N Bond Isle, Kuzeytepe",Kuzeytepe,+00 5849483724,SY-2726814,J-294,konut,0.0,19.45,2026-11-28,R06
+AB-100210,Ms Melissa Fletcher,"Flat 44Z Charlie Crest, Kuzeytepe",Kuzeytepe,+00 5786538899,SY-9635950,J-295,konut,70.62,41.34,2026-11-28,R07
+AB-100211,Nicole Lewis,"Studio 0 Ellie Station, Gölbaşı",Gölbaşı,+00 5802346196,SY-1570565,J-296,işyeri,0.0,19.22,2026-11-28,R08
+AB-100212,Marie Gray,"465 Graham Mountains, Gölbaşı",Gölbaşı,+00 5591481967,SY-5445872,J-297,işyeri,0.0,103.87,2026-11-28,R09
+AB-100213,Heather Smith,"Flat 2 Samantha Shoals, Sahilyolu",Sahilyolu,+00 5839963620,SY-2728666,J-298,konut,63.77,60.13,2026-11-28,R10
+AB-100214,Jennifer Davey,"252 Craig Throughway, Çınarlık",Çınarlık,+00 5608975366,SY-8180364,J-299,konut,0.0,88.41,2026-11-28,R11
+AB-100215,Alison Wilkinson,"83 Edward Radial, Sahilyolu",Sahilyolu,+00 5766869993,SY-6039864,J-3,konut,0.0,96.84,2026-11-28,R12
+AB-100216,Georgia Jenkins,"Flat 05 Taylor Ports, Yeşilova",Yeşilova,+00 5953234552,SY-9204358,J-30,işyeri,0.0,24.84,2026-11-28,R01
+AB-100217,Melanie Brown,"38 Harriet Path, Sahilyolu",Sahilyolu,+00 5582257480,SY-3569581,J-300,konut,0.0,24.16,2026-11-28,R02
+AB-100218,Melissa Clarke-Osborne,"Studio 80 Leonard Lodge, Sahilyolu",Sahilyolu,+00 5347526744,SY-3732856,J-301,konut,0.0,54.81,2026-11-28,R03
+AB-100219,Hazel White,"Flat 26 Heather Road, Sahilyolu",Sahilyolu,+00 5386329698,SY-3946782,J-302,konut,0.0,34.24,2026-11-28,R04
+AB-100220,Frank Vincent,"8 Jackson Pike, Sahilyolu",Sahilyolu,+00 5755795077,SY-6601831,J-303,işyeri,0.0,73.94,2026-11-28,R05
+AB-100221,Marc Middleton,"722 Richardson Summit, Sahilyolu",Sahilyolu,+00 5184986032,SY-1013198,J-304,konut,0.0,15.25,2026-11-28,R06
+AB-100222,Dr Kimberley Jackson,"17 Marshall Brook, Sahilyolu",Sahilyolu,+00 5494670511,SY-7159347,J-305,konut,0.0,30.08,2026-11-28,R07
+AB-100223,Bernard Woods,"Flat 14s Lawrence Road, Çınarlık",Çınarlık,+00 5795468193,SY-8707020,J-306,işyeri,0.0,94.39,2026-11-28,R08
+AB-100224,Roger Harrison,"2 Rachel Union, Çınarlık",Çınarlık,+00 5254243566,SY-3026410,J-307,işyeri,0.0,111.11,2026-11-28,R09
+AB-100225,Miss Harriet Walker,"Flat 79 Lydia Forks, Sahilyolu",Sahilyolu,+00 5291931853,SY-1437889,J-308,işyeri,0.0,93.22,2026-11-28,R10
+AB-100226,Joe Thompson,"689 Lorraine Roads, Sahilyolu",Sahilyolu,+00 5754191432,SY-6371890,J-309,konut,0.0,25.18,2026-11-28,R11
+AB-100227,Charlotte Wright-Griffin,"143 Robinson Well, Gölbaşı",Gölbaşı,+00 5944534615,SY-6534721,J-31,konut,0.0,101.09,2026-11-28,R12
+AB-100228,Miss Aimee Smith,"899 Davison Islands, Sahilyolu",Sahilyolu,+00 5505476284,SY-5098787,J-310,konut,0.0,77.81,2026-11-28,R01
+AB-100229,Amber Houghton,"16 Khan Points, Sahilyolu",Sahilyolu,+00 5608788512,SY-7285998,J-311,konut,0.0,15.3,2026-11-28,R02
+AB-100230,Rosemary Patterson,"Studio 1 Powell Groves, Değirmendere",Değirmendere,+00 5915981869,SY-1857146,J-312,konut,0.0,60.05,2026-11-28,R03
+AB-100231,Mr Nicholas Howard,"6 Emily Loaf, Sahilyolu",Sahilyolu,+00 5365012141,SY-5910480,J-313,konut,232.77,42.26,2026-11-28,R04
+AB-100232,Mr Gordon Burns,"Flat 58M Mohammed Underpass, Sahilyolu",Sahilyolu,+00 5935932614,SY-4463311,J-314,işyeri,170.39,70.04,2026-11-28,R05
+AB-100233,Dr Iain Pollard,"Studio 49 Ian Fort, Sahilyolu",Sahilyolu,+00 5230529237,SY-2940432,J-315,konut,0.0,63.81,2026-11-28,R06
+AB-100234,Amelia Stevens,"369 June Springs, Sahilyolu",Sahilyolu,+00 5604604029,SY-6158240,J-316,konut,0.0,99.64,2026-11-28,R07
+AB-100235,Cheryl Robinson-Law,"6 Lewis Plaza, Sahilyolu",Sahilyolu,+00 5264999273,SY-3157240,J-317,konut,0.0,88.57,2026-11-28,R08
+AB-100236,Danny Richardson,"6 Sharp Glen, Çınarlık",Çınarlık,+00 5563245795,SY-2379724,J-318,işyeri,40.37,74.38,2026-11-28,R09
+AB-100237,Miss Donna Williams,"80 Tucker Walk, Gölbaşı",Gölbaşı,+00 5512951955,SY-4418488,J-319,işyeri,69.1,101.55,2026-11-28,R10
+AB-100238,Reece Hughes,"1 Benson River, Gölbaşı",Gölbaşı,+00 5263258068,SY-3103966,J-32,işyeri,70.44,30.36,2026-11-28,R11
+AB-100239,Duncan French,"Studio 12t Robin Spring, Gölbaşı",Gölbaşı,+00 5299956638,SY-5380045,J-320,konut,0.0,29.56,2026-11-28,R12
+AB-100240,Kathleen Davies,"Flat 27p Briggs Greens, Sahilyolu",Sahilyolu,+00 5312990316,SY-9000166,J-321,konut,0.0,33.03,2026-11-28,R01
+AB-100241,Josephine Newman,"Flat 64L Amelia Meadows, Sahilyolu",Sahilyolu,+00 5504934482,SY-5622894,J-322,konut,0.0,38.68,2026-11-28,R02
+AB-100242,Francis Watson,"Flat 3 Lees Islands, Gölbaşı",Gölbaşı,+00 5644196053,SY-4746388,J-323,konut,0.0,86.72,2026-11-28,R03
+AB-100243,Mathew Thomas-Todd,"Flat 51 O'Sullivan Wells, Değirmendere",Değirmendere,+00 5324282047,SY-7192930,J-325,konut,0.0,97.68,2026-11-28,R04
+AB-100244,Lorraine Stephenson,"484 Leonard Falls, Sahilyolu",Sahilyolu,+00 5327798559,SY-7078275,J-326,işyeri,0.0,38.67,2026-11-28,R05
+AB-100245,Joe Thompson,"974 Reece Crossing, Sahilyolu",Sahilyolu,+00 5482929323,SY-2831584,J-327,işyeri,0.0,28.75,2026-11-28,R06
+AB-100246,Mr Gordon Cooper,"Flat 6 Brenda Motorway, Sahilyolu",Sahilyolu,+00 5505031426,SY-2958359,J-328,işyeri,0.0,85.2,2026-11-28,R07
+AB-100247,George Ward,"Flat 68 Hollie Summit, Sahilyolu",Sahilyolu,+00 5487917910,SY-9367416,J-329,konut,0.0,18.24,2026-11-28,R08
+AB-100248,Dr June Brown,"172 Aaron Turnpike, Sahilyolu",Sahilyolu,+00 5315096334,SY-4923219,J-33,işyeri,0.0,86.67,2026-11-28,R09
+AB-100249,Rosie Hopkins,"Studio 98 Hall Pike, Sahilyolu",Sahilyolu,+00 5793802922,SY-2911548,J-330,konut,0.0,91.11,2026-11-28,R10
+AB-100250,Mr Colin Fry,"Flat 31 Kaur Pass, Yeşilova",Yeşilova,+00 5300674882,SY-5675126,J-331,konut,0.0,76.5,2026-11-28,R11
+AB-100251,Mr Rhys Fox,"504 Duffy Point, Yeşilova",Yeşilova,+00 5761779278,SY-5733554,J-332,konut,0.0,42.29,2026-11-28,R12
+AB-100252,Scott Henry,"Flat 4 Hazel Village, Yeşilova",Yeşilova,+00 5847970633,SY-4079687,J-333,konut,0.0,82.84,2026-11-28,R01
+AB-100253,Ben Moore,"065 Charles Dam, Yeşilova",Yeşilova,+00 5890681771,SY-2626374,J-334,işyeri,0.0,44.12,2026-11-28,R02
+AB-100254,Annette Ferguson,"Flat 4 Cameron Mall, Sahilyolu",Sahilyolu,+00 5888347841,SY-2079109,J-335,konut,0.0,96.22,2026-11-28,R03
+AB-100255,Samuel Bradley-Howells,"Flat 50P Julie Ferry, Sahilyolu",Sahilyolu,+00 5506788154,SY-4746445,J-336,işyeri,0.0,51.13,2026-11-28,R04
+AB-100256,Damien Edwards,"3 Georgina Dale, Gölbaşı",Gölbaşı,+00 5233937814,SY-4936432,J-337,konut,0.0,96.43,2026-11-28,R05
+AB-100257,Georgia Page,"Studio 1 Alice Light, Çınarlık",Çınarlık,+00 5821821359,SY-5965974,J-338,işyeri,0.0,41.77,2026-11-28,R06
+AB-100258,Wendy James,"665 Slater Falls, Çınarlık",Çınarlık,+00 5735829857,SY-7262807,J-339,konut,0.0,103.05,2026-11-28,R07
+AB-100259,Bethan Randall-Jenkins,"Flat 23V Brown Ports, Sahilyolu",Sahilyolu,+00 5424123166,SY-1773956,J-34,konut,0.0,95.19,2026-11-28,R08
+AB-100260,Guy Lyons,"Flat 0 Henry Tunnel, Gölbaşı",Gölbaşı,+00 5972560509,SY-6854680,J-342,işyeri,0.0,39.0,2026-11-28,R09
+AB-100261,Hayley Cooper,"646 Evans Trail, Sahilyolu",Sahilyolu,+00 5168201074,SY-7601188,J-343,konut,0.0,28.95,2026-11-28,R10
+AB-100262,Hannah Newman,"Studio 8 Morgan Haven, Sahilyolu",Sahilyolu,+00 5289058108,SY-7986618,J-344,konut,0.0,88.32,2026-11-28,R11
+AB-100263,Carol Henry-Carr,"Studio 4 Kevin Plains, Yeşilova",Yeşilova,+00 5336699437,SY-7134997,J-345,konut,113.42,119.01,2026-11-28,R12
+AB-100264,Rhys Smith,"900 Holden Bypass, Çınarlık",Çınarlık,+00 5756738854,SY-5616888,J-346,işyeri,0.0,87.85,2026-11-28,R01
+AB-100265,Dr Robin Smith,"Flat 7 Taylor Cliffs, Çınarlık",Çınarlık,+00 5605048199,SY-3302787,J-347,konut,248.33,87.75,2026-11-28,R02
+AB-100266,Jessica Baker,"Studio 90d Welch Port, Sahilyolu",Sahilyolu,+00 5296282698,SY-6372036,J-348,konut,0.0,27.93,2026-11-28,R03
+AB-100267,Adam Hamilton,"Studio 4 Ricky Spurs, Sahilyolu",Sahilyolu,+00 5840904167,SY-2221643,J-35,işyeri,0.0,83.31,2026-11-28,R04
+AB-100268,Eleanor Burrows,"Studio 05L Simpson Pine, Sahilyolu",Sahilyolu,+00 5782619392,SY-3673688,J-351,işyeri,47.88,82.0,2026-11-28,R05
+AB-100269,Claire Watkins,"Flat 8 Judith Terrace, Kuzeytepe",Kuzeytepe,+00 5692796929,SY-7229419,J-352,konut,0.0,38.99,2026-11-28,R06
+AB-100270,Mrs Sheila Cox,"Studio 4 Gareth Port, Kuzeytepe",Kuzeytepe,+00 5403347084,SY-6542412,J-353,konut,29.91,93.07,2026-11-28,R07
+AB-100271,Ashleigh Wells,"Flat 29Q Steven Ridges, Sahilyolu",Sahilyolu,+00 5491683519,SY-9446431,J-354,konut,0.0,76.31,2026-11-28,R08
+AB-100272,Holly Cooke,"1 Leanne Dam, Sahilyolu",Sahilyolu,+00 5694139413,SY-8293481,J-355,konut,398.12,79.16,2026-11-28,R09
+AB-100273,Ian Dawson,"Flat 34m Caroline Plains, Sahilyolu",Sahilyolu,+00 5570009935,SY-5635087,J-356,konut,0.0,104.63,2026-11-28,R10
+AB-100274,Andrew Young,"14 Day Meadows, Sahilyolu",Sahilyolu,+00 5203269786,SY-3008209,J-357,konut,0.0,48.59,2026-11-28,R11
+AB-100275,Liam Heath-Taylor,"02 Clare Plains, Sahilyolu",Sahilyolu,+00 5450285482,SY-1195489,J-358,konut,124.35,54.32,2026-11-28,R12
+AB-100276,Lynne Taylor,"Flat 08 Abdul Manors, Sahilyolu",Sahilyolu,+00 5633898395,SY-9602909,J-359,konut,0.0,40.38,2026-11-28,R01
+AB-100277,Megan Newman,"Flat 5 Chloe Plaza, Sahilyolu",Sahilyolu,+00 5974454325,SY-6652172,J-36,konut,0.0,31.38,2026-11-28,R02
+AB-100278,Tom Davies,"4 June Way, Sahilyolu",Sahilyolu,+00 5941877142,SY-9294053,J-360,konut,27.77,91.34,2026-11-28,R03
+AB-100279,Tracy Gilbert,"Flat 44i Evans Coves, Sahilyolu",Sahilyolu,+00 5790012484,SY-8682869,J-361,işyeri,280.43,51.16,2026-11-28,R04
+AB-100280,Craig Chadwick-Richards,"Studio 85k Lee Forges, Sahilyolu",Sahilyolu,+00 5632787219,SY-1285653,J-362,konut,0.0,22.73,2026-11-28,R05
+AB-100281,Miss Olivia Parkinson,"422 Ali Park, Gölbaşı",Gölbaşı,+00 5809457496,SY-3588019,J-363,konut,0.0,61.34,2026-11-28,R06
+AB-100282,Reece Cook,"Studio 72 Bernard Street, Gölbaşı",Gölbaşı,+00 5246402185,SY-1427411,J-364,konut,0.0,23.83,2026-11-28,R07
+AB-100283,Jane Patel,"38 Savage Roads, Sahilyolu",Sahilyolu,+00 5424703701,SY-5207046,J-365,işyeri,0.0,118.36,2026-11-28,R08
+AB-100284,Georgina Morgan,"Flat 14K Francis Lodge, Sahilyolu",Sahilyolu,+00 5968441551,SY-9839466,J-366,konut,0.0,90.29,2026-11-28,R09
+AB-100285,Trevor Hutchinson,"29 Clifford Burg, Yeşilova",Yeşilova,+00 5983107764,SY-8290398,J-367,işyeri,0.0,46.1,2026-11-28,R10
+AB-100286,Jacob Watkins,"Flat 2 Davies Inlet, Yeşilova",Yeşilova,+00 5558215519,SY-5967811,J-368,konut,0.0,17.74,2026-11-28,R11
+AB-100287,Henry White,"Studio 79 Carolyn Hollow, Sahilyolu",Sahilyolu,+00 5948041054,SY-1563442,J-369,işyeri,0.0,107.34,2026-11-28,R12
+AB-100288,Mrs Sharon Thompson,"Studio 48 Thompson Squares, Değirmendere",Değirmendere,+00 5487871384,SY-3017481,J-37,konut,0.0,29.92,2026-11-28,R01
+AB-100289,Sandra Williamson-Lynch,"Flat 19C Morgan Neck, Sahilyolu",Sahilyolu,+00 5755334966,SY-5021263,J-370,konut,0.0,55.29,2026-11-28,R02
+AB-100290,Christopher Hill,"47 Olivia Park, Kuzeytepe",Kuzeytepe,+00 5692856604,SY-9613251,J-371,konut,0.0,81.24,2026-11-28,R03
+AB-100291,Howard Jones,"9 Lawrence Plaza, Sahilyolu",Sahilyolu,+00 5822485726,SY-4084627,J-372,konut,0.0,61.32,2026-11-28,R04
+AB-100292,Joshua Watson,"Flat 39 Bernard Harbors, Sahilyolu",Sahilyolu,+00 5812682841,SY-9399343,J-373,konut,0.0,51.94,2026-11-28,R05
+AB-100293,Jenna Roberts,"Studio 29 Mitchell Mountain, Sahilyolu",Sahilyolu,+00 5252064592,SY-9313746,J-374,konut,378.46,76.35,2026-11-28,R06
+AB-100294,Jayne Watson,"Studio 37 Connor Track, Sahilyolu",Sahilyolu,+00 5939357477,SY-6327148,J-375,işyeri,0.0,30.84,2026-11-28,R07
+AB-100295,Sean Saunders,"989 Amanda Ville, Sahilyolu",Sahilyolu,+00 5831198386,SY-7615999,J-376,işyeri,0.0,79.92,2026-11-28,R08
+AB-100296,Cameron Armstrong,"175 Brown Alley, Çınarlık",Çınarlık,+00 5678252325,SY-1379018,J-377,işyeri,0.0,47.82,2026-11-28,R09
+AB-100297,Mrs Alice Mahmood,"70 Clarke Port, Çınarlık",Çınarlık,+00 5362787847,SY-9042096,J-378,konut,0.0,114.18,2026-11-28,R10
+AB-100298,Dr Conor Nicholson,"53 Bell Underpass, Sahilyolu",Sahilyolu,+00 5735530952,SY-4981271,J-379,konut,234.29,80.07,2026-11-28,R11
+AB-100299,Neil Thomas,"Studio 3 Bethan Inlet, Değirmendere",Değirmendere,+00 5766301192,SY-5752333,J-38,işyeri,0.0,76.38,2026-11-28,R12

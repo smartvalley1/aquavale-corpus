@@ -1,0 +1,5 @@
+{"title": "AquaVale: Synthetic water utility corpus for measuring disclosure by internal AI assistants",
+ "upload_type": "dataset", "license": "CC-BY-4.0",
+ "creators": [{"name": "Ünlü, Nafiz", "affiliation": "Beykoz Üniversitesi / Smart Valley"}],
+ "keywords": ["contextual integrity", "LLM privacy", "critical infrastructure", "water utilities", "RAG", "canary tokens"],
+ "description": "Kurgusal su ve atıksu idaresi derlemi: açık kıyaslama verilerinden (KY10, BATADAL, BattLeDIM) türetilmiş şebeke, SCADA ve arıza kayıtları; sentetik abone ve tüketim verisi; kanarya sözlüğü, altın etiketli 25 pilot soru ve ölçüm betikleri. Gerçek kişi veya gerçek altyapı bilgisi içermez."}

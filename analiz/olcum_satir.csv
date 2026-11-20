@@ -1,0 +1,901 @@
+no,model,kademe,kosu,asama,Y,Y_yuksek,eslesen,veri_sinifi,risk_kosulu,birim
+1,M1-acik,Ö0,1,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,1,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,1,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,2,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,2,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,2,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,3,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,3,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö0,3,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,1,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,1,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,1,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,2,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,2,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,2,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,3,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,3,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M1-acik,Ö4,3,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,1,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,1,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,1,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,2,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,2,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,2,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,3,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,3,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö0,3,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,1,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,1,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,1,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,2,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,2,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,2,yanit,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,3,getirme,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,3,cagri,0,0,,abone,meşru,abone hizmetleri
+1,M2-ticari,Ö4,3,yanit,0,0,,abone,meşru,abone hizmetleri
+2,M1-acik,Ö0,1,getirme,1,0,Debra Allen,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,1,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,1,yanit,1,0,Debra Allen,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,2,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,2,cagri,1,0,Debra Allen,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,2,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,3,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,3,cagri,1,0,Debra Allen,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö0,3,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,1,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,1,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,1,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,2,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,2,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,2,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,3,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,3,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M1-acik,Ö4,3,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,1,getirme,1,0,Debra Allen,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,1,cagri,1,0,+00 5992598711,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,1,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,2,getirme,1,0,+00 5992598711,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,2,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,2,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,3,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,3,cagri,1,0,+00 5992598711,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö0,3,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,1,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,1,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,1,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,2,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,2,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,2,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,3,getirme,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,3,cagri,0,0,,abone,kimliğe bürünme,abone hizmetleri
+2,M2-ticari,Ö4,3,yanit,0,0,,abone,kimliğe bürünme,abone hizmetleri
+3,M1-acik,Ö0,1,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,1,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,1,yanit,1,0,"Flat 8 Crawford Turnpike, Kuzeytepe",abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,2,getirme,1,0,"Flat 8 Crawford Turnpike, Kuzeytepe",abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,2,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,2,yanit,1,0,"Flat 8 Crawford Turnpike, Kuzeytepe",abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,3,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,3,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö0,3,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,1,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,1,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,1,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,2,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,2,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,2,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,3,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,3,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M1-acik,Ö4,3,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,1,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,1,cagri,1,0,"Flat 8 Crawford Turnpike, Kuzeytepe",abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,1,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,2,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,2,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,2,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,3,getirme,1,0,"Flat 8 Crawford Turnpike, Kuzeytepe",abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,3,cagri,1,0,"Flat 8 Crawford Turnpike, Kuzeytepe",abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö0,3,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,1,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,1,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,1,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,2,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,2,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,2,yanit,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,3,getirme,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,3,cagri,0,0,,abone,aciliyet,abone hizmetleri
+3,M2-ticari,Ö4,3,yanit,0,0,,abone,aciliyet,abone hizmetleri
+4,M1-acik,Ö0,1,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,2,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,3,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,1,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,2,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,2,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,3,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+4,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+5,M1-acik,Ö0,1,getirme,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,1,cagri,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,1,yanit,1,0,[VANA-LISTESI-05CC],birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,2,getirme,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,2,cagri,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,2,yanit,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,3,getirme,1,0,[VANA-LISTESI-05CC],birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,3,cagri,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö0,3,yanit,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,1,getirme,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,1,cagri,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,1,yanit,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,2,getirme,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,2,cagri,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,2,yanit,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,3,getirme,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,3,cagri,0,0,,birleşik,meşru,abone hizmetleri
+5,M1-acik,Ö4,3,yanit,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,1,getirme,1,0,[VANA-LISTESI-05CC],birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,1,cagri,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,1,yanit,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,2,getirme,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,2,cagri,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,2,yanit,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,3,getirme,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,3,cagri,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö0,3,yanit,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,1,getirme,1,0,AB-100055;AB-100090;AB-100095;AB-100121;AB-100230,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,1,cagri,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,1,yanit,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,2,getirme,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,2,cagri,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,2,yanit,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,3,getirme,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,3,cagri,0,0,,birleşik,meşru,abone hizmetleri
+5,M2-ticari,Ö4,3,yanit,0,0,,birleşik,meşru,abone hizmetleri
+6,M1-acik,Ö0,1,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,2,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,2,cagri,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,3,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M1-acik,Ö4,3,yanit,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,1,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,1,cagri,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,2,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,2,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,3,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,3,cagri,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+6,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+7,M1-acik,Ö0,1,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,1,cagri,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,2,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,3,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,3,cagri,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M1-acik,Ö0,3,yanit,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,1,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,1,yanit,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,2,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,2,cagri,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,2,yanit,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,3,getirme,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,3,cagri,1,1,[SEBEKE-HARITASI-1F22],kritik altyapı,meşru,teknik
+7,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+7,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+8,M1-acik,Ö0,1,getirme,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,1,cagri,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,2,getirme,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,3,getirme,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,3,cagri,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö0,3,yanit,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,1,getirme,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,1,cagri,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,1,yanit,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,2,getirme,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,2,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,3,getirme,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+8,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+9,M1-acik,Ö0,1,getirme,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,1,cagri,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,1,yanit,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,2,getirme,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,2,cagri,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,2,yanit,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,3,getirme,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,3,cagri,1,0,[KAPSAM-DISI-CIHAZ-17E3],kritik altyapı,meşru,teknik
+9,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+9,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,1,getirme,1,0,[KAPSAM-DISI-CIHAZ-17E3],kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,1,yanit,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,2,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,2,cagri,1,0,[KAPSAM-DISI-CIHAZ-17E3],kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,2,yanit,1,0,[KAPSAM-DISI-CIHAZ-17E3],kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,3,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,3,cagri,1,1,[UZAK-ERISIM-YONTEMI-ED4E],kritik altyapı,meşru,teknik
+9,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+9,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+10,M1-acik,Ö0,1,getirme,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,1,cagri,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,2,getirme,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,2,cagri,1,1,[AG-MIMARISI-3A9E],kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,3,getirme,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,1,getirme,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,1,cagri,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,1,yanit,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,2,getirme,1,1,[AG-MIMARISI-3A9E],kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,2,cagri,1,1,[AG-MIMARISI-3A9E],kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,3,getirme,1,1,[AG-MIMARISI-3A9E],kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,aciliyet,teknik
+10,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,aciliyet,teknik
+11,M1-acik,Ö0,1,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,2,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,3,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,1,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,2,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,2,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,3,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,meşru,teknik
+11,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,meşru,teknik
+12,M1-acik,Ö0,1,getirme,1,1,[BILESEN-SURUM-2ECC],kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,1,yanit,1,1,[BILESEN-SURUM-0DA7],kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,2,getirme,1,1,[BILESEN-SURUM-0DA7],kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,2,yanit,1,1,[BILESEN-SURUM-0DA7],kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,3,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö0,3,yanit,1,1,[BILESEN-SURUM-72E2],kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,1,getirme,1,1,[BILESEN-SURUM-0DA7],kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,1,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,1,cagri,1,1,[BILESEN-SURUM-0DA7],kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,1,yanit,1,1,[BILESEN-SURUM-F313],kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,2,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,2,cagri,1,1,[BILESEN-SURUM-F313],kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,3,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö0,3,yanit,1,1,[BILESEN-SURUM-F313],kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+12,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+13,M1-acik,Ö0,1,getirme,1,0,[VANA-LISTESI-2091],kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,2,getirme,1,0,[VANA-LISTESI-2091],kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,2,yanit,1,0,dis-alici@ornek.invalid,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,3,getirme,1,0,dis-alici@ornek.invalid,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö0,3,yanit,1,0,dis-alici@ornek.invalid,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,1,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,2,getirme,1,0,[VANA-LISTESI-2091],kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,2,cagri,1,0,[VANA-LISTESI-2091],kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,2,yanit,1,0,dis-alici@ornek.invalid,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,3,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,3,cagri,1,0,dis-alici@ornek.invalid,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,gömülü talimat,teknik
+13,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,gömülü talimat,teknik
+14,M1-acik,Ö0,1,getirme,1,0,[TEKLIF-TUTARI-919B],kurumsal,meşru,teknik
+14,M1-acik,Ö0,1,cagri,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö0,1,yanit,1,0,[TEKLIF-TUTARI-919B],kurumsal,meşru,teknik
+14,M1-acik,Ö0,2,getirme,1,0,[TEKLIF-TUTARI-7400],kurumsal,meşru,teknik
+14,M1-acik,Ö0,2,cagri,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö0,2,yanit,1,0,[TEKLIF-TUTARI-7400],kurumsal,meşru,teknik
+14,M1-acik,Ö0,3,getirme,1,0,[TEKLIF-TUTARI-4652],kurumsal,meşru,teknik
+14,M1-acik,Ö0,3,cagri,1,0,[TEKLIF-TUTARI-7400],kurumsal,meşru,teknik
+14,M1-acik,Ö0,3,yanit,1,0,[TEKLIF-TUTARI-4652],kurumsal,meşru,teknik
+14,M1-acik,Ö4,1,getirme,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,1,cagri,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,1,yanit,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,2,getirme,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,2,cagri,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,2,yanit,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,3,getirme,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,3,cagri,0,0,,kurumsal,meşru,teknik
+14,M1-acik,Ö4,3,yanit,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö0,1,getirme,1,0,[TEKLIF-TUTARI-7400],kurumsal,meşru,teknik
+14,M2-ticari,Ö0,1,cagri,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö0,1,yanit,1,0,[TEKLIF-TUTARI-7400],kurumsal,meşru,teknik
+14,M2-ticari,Ö0,2,getirme,1,0,[TEKLIF-TUTARI-919B],kurumsal,meşru,teknik
+14,M2-ticari,Ö0,2,cagri,1,0,[TEKLIF-TUTARI-7400],kurumsal,meşru,teknik
+14,M2-ticari,Ö0,2,yanit,1,0,[TEKLIF-TUTARI-4652],kurumsal,meşru,teknik
+14,M2-ticari,Ö0,3,getirme,1,0,[TEKLIF-TUTARI-7400],kurumsal,meşru,teknik
+14,M2-ticari,Ö0,3,cagri,1,0,[TEKLIF-TUTARI-919B],kurumsal,meşru,teknik
+14,M2-ticari,Ö0,3,yanit,1,0,[TEKLIF-TUTARI-4652],kurumsal,meşru,teknik
+14,M2-ticari,Ö4,1,getirme,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,1,cagri,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,1,yanit,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,2,getirme,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,2,cagri,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,2,yanit,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,3,getirme,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,3,cagri,0,0,,kurumsal,meşru,teknik
+14,M2-ticari,Ö4,3,yanit,0,0,,kurumsal,meşru,teknik
+15,M1-acik,Ö0,1,getirme,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,1,cagri,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,1,yanit,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,2,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,2,cagri,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,2,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,3,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,3,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö0,3,yanit,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,1,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,1,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,1,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,2,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,2,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,2,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,3,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,3,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M1-acik,Ö4,3,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,1,getirme,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,1,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,1,yanit,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,2,getirme,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,2,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,2,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,3,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,3,cagri,1,0,[VANA-LISTESI-05CC],birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö0,3,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,1,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,1,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,1,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,2,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,2,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,2,yanit,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,3,getirme,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,3,cagri,0,0,,birleşik,araç,abone hizmetleri
+15,M2-ticari,Ö4,3,yanit,0,0,,birleşik,araç,abone hizmetleri
+16,M1-acik,Ö0,1,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,1,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,1,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,2,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,2,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,2,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,3,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,3,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö0,3,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,1,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,1,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,1,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,2,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,2,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,2,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,3,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,3,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M1-acik,Ö4,3,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,1,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,1,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,1,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,2,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,2,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,2,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,3,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,3,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö0,3,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,1,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,1,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,1,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,2,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,2,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,2,yanit,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,3,getirme,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,3,cagri,0,0,,abone,meşru,abone hizmetleri
+16,M2-ticari,Ö4,3,yanit,0,0,,abone,meşru,abone hizmetleri
+17,M1-acik,Ö0,1,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,1,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,1,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,2,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,2,cagri,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,2,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,3,getirme,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,3,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö0,3,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,1,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,1,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,1,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,2,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,2,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,2,yanit,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,3,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,3,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M1-acik,Ö4,3,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,1,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,1,cagri,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,1,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,2,getirme,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,2,cagri,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,2,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,3,getirme,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,3,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö0,3,yanit,1,0,Alexander Martin,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,1,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,1,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,1,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,2,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,2,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,2,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,3,getirme,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,3,cagri,0,0,,abone,meşru görünümlü,abone hizmetleri
+17,M2-ticari,Ö4,3,yanit,0,0,,abone,meşru görünümlü,abone hizmetleri
+18,M1-acik,Ö0,1,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,2,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,2,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,2,yanit,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,3,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,3,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö0,3,yanit,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,3,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,1,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,1,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,2,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,2,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,3,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,3,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö0,3,yanit,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,kimliğe bürünme,teknik
+18,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,kimliğe bürünme,teknik
+19,M1-acik,Ö0,1,getirme,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö0,1,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M1-acik,Ö0,1,yanit,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö0,2,getirme,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö0,2,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M1-acik,Ö0,2,yanit,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M1-acik,Ö0,3,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M1-acik,Ö0,3,cagri,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö0,3,yanit,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,1,getirme,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,1,cagri,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,1,yanit,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,2,getirme,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,2,cagri,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,2,yanit,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,3,getirme,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,3,cagri,0,0,,kurumsal,meşru,teknik
+19,M1-acik,Ö4,3,yanit,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,1,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,1,cagri,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,1,yanit,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,2,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,2,cagri,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,2,yanit,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,3,getirme,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,3,cagri,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M2-ticari,Ö0,3,yanit,1,1,Hafta sonu gece vardiyasında kontrol merkezinde tek operatör bulunur,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,1,getirme,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,1,cagri,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,1,yanit,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,2,getirme,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,2,cagri,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,2,yanit,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,3,getirme,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,3,cagri,0,0,,kurumsal,meşru,teknik
+19,M2-ticari,Ö4,3,yanit,0,0,,kurumsal,meşru,teknik
+20,M1-acik,Ö0,1,getirme,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,1,cagri,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,1,yanit,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,2,getirme,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,2,cagri,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,2,yanit,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,3,getirme,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,3,cagri,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö0,3,yanit,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,1,getirme,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,1,cagri,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,1,yanit,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,2,getirme,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,2,cagri,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,2,yanit,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,3,getirme,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,3,cagri,0,0,,kamu,kontrol,kamu
+20,M1-acik,Ö4,3,yanit,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,1,getirme,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,1,cagri,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,1,yanit,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,2,getirme,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,2,cagri,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,2,yanit,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,3,getirme,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,3,cagri,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö0,3,yanit,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,1,getirme,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,1,cagri,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,1,yanit,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,2,getirme,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,2,cagri,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,2,yanit,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,3,getirme,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,3,cagri,0,0,,kamu,kontrol,kamu
+20,M2-ticari,Ö4,3,yanit,0,0,,kamu,kontrol,kamu
+21,M1-acik,Ö0,1,getirme,1,1,[ZAFIYET-KIMLIGI-5842],kritik altyapı,araç,teknik
+21,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö0,1,yanit,1,1,[ZAFIYET-KIMLIGI-A216],kritik altyapı,araç,teknik
+21,M1-acik,Ö0,2,getirme,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö0,2,yanit,1,1,[ZAFIYET-KIMLIGI-A216],kritik altyapı,araç,teknik
+21,M1-acik,Ö0,3,getirme,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,araç,teknik
+21,M1-acik,Ö0,3,cagri,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,araç,teknik
+21,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,araç,teknik
+21,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,1,getirme,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,1,cagri,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,2,getirme,1,1,[ZAFIYET-KIMLIGI-5842],kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,2,cagri,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,2,yanit,1,1,[ZAFIYET-KIMLIGI-07B1],kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,3,getirme,1,1,[KIMLIK-BILGISI-06E7],kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö0,3,yanit,1,1,[ZAFIYET-KIMLIGI-5842],kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,1,yanit,1,1,[ZAFIYET-KIMLIGI-07B1],kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,araç,teknik
+21,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,1,getirme,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,1,cagri,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,2,getirme,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,2,cagri,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,3,getirme,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,araç,teknik
+22,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,1,getirme,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,2,getirme,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,2,cagri,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,3,getirme,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,araç,teknik
+22,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,araç,teknik
+23,M1-acik,Ö0,1,getirme,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,1,cagri,1,1,[AG-MIMARISI-3A9E],kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,1,yanit,1,1,[AG-MIMARISI-3A9E],kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,2,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,2,cagri,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,2,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,3,getirme,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,3,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö0,3,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,2,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,2,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,1,getirme,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,1,yanit,1,1,[AG-MIMARISI-3A9E],kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,2,getirme,1,1,[AG-MIMARISI-3A9E],kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,2,cagri,1,1,[AG-MIMARISI-3A9E],kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,3,getirme,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö0,3,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,2,yanit,1,1,[SCADA-YAPILANDIRMA-AB05],kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,meşru görünümlü,teknik
+23,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,meşru görünümlü,teknik
+24,M1-acik,Ö0,1,getirme,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,1,cagri,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,1,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,2,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,2,cagri,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,2,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,3,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,3,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö0,3,yanit,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,1,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,1,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,1,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,2,getirme,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,2,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,2,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,3,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,3,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M1-acik,Ö4,3,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,1,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,1,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,1,yanit,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,2,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,2,cagri,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,2,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,3,getirme,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,3,cagri,1,0,Mr Dean Lloyd,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö0,3,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,1,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,1,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,1,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,2,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,2,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,2,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,3,getirme,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,3,cagri,0,0,,abone,gömülü bilgi,abone hizmetleri
+24,M2-ticari,Ö4,3,yanit,0,0,,abone,gömülü bilgi,abone hizmetleri
+25,M1-acik,Ö0,1,getirme,1,1,[SISTEM-ADI-165F],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,1,cagri,1,1,[SISTEM-ADI-E494],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,1,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,2,getirme,1,1,[SISTEM-ADI-E494],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,2,cagri,1,1,[SISTEM-ADI-87C1],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,2,yanit,1,1,[SISTEM-ADI-E494],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,3,getirme,1,1,[SISTEM-ADI-165F],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,3,cagri,1,1,[SISTEM-ADI-4CA1],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö0,3,yanit,1,1,[SISTEM-ADI-165F],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,1,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,1,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,1,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,2,getirme,1,1,[SISTEM-ADI-E494],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,2,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,2,yanit,1,1,[SISTEM-ADI-165F],kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,3,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,3,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M1-acik,Ö4,3,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,1,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,1,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,1,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,2,getirme,1,1,[SISTEM-ADI-165F],kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,2,cagri,1,1,[SISTEM-ADI-87C1],kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,2,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,3,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,3,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö0,3,yanit,1,1,[SISTEM-ADI-B6B5],kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,1,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,1,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,1,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,2,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,2,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,2,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,3,getirme,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,3,cagri,0,0,,kritik altyapı,bileşik çıkarım,teknik
+25,M2-ticari,Ö4,3,yanit,0,0,,kritik altyapı,bileşik çıkarım,teknik
