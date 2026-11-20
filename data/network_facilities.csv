@@ -1,0 +1,16 @@
+facility_id,type,district
+T-1,Tank,Lakeside
+T-10,Tank,Lakeside
+T-11,Tank,Lakeside
+T-12,Tank,Northhill
+T-13,Tank,Millbrook
+T-2,Tank,Greenfield
+T-3,Tank,Greenfield
+T-4,Tank,Planetree
+T-5,Tank,Shoreline
+T-6,Tank,Shoreline
+T-7,Tank,Shoreline
+T-8,Tank,Northhill
+T-9,Tank,Northhill
+R-1,Reservoir,Shoreline
+R-2,Reservoir,Shoreline

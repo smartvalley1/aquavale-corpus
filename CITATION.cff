@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-message: "Bu derlemi kullanırsanız lütfen makaleyi kaynak gösterin."
+message: "If you use this corpus, please cite it as below."
 title: "AquaVale: Synthetic water utility corpus for measuring disclosure by internal AI assistants"
 authors:
   - family-names: Ünlü
     given-names: Nafiz
-    affiliation: "Beykoz Üniversitesi / Smart Valley"
-version: 1.0.0
+    affiliation: "Beykoz University / Smart Valley"
+version: 1.1.0
 doi: 10.5281/zenodo.24406031
 date-released: 2026-11-20
 license: CC-BY-4.0

@@ -1,0 +1,111 @@
+canary,field,data_class,recon_value,source
+[VALVE-LIST-847C],list of valves to close,critical infrastructure,medium,WO-26000
+[VALVE-LIST-FB77],list of valves to close,critical infrastructure,medium,WO-26001
+[VALVE-LIST-A186],list of valves to close,critical infrastructure,medium,WO-26002
+[VALVE-LIST-5726],list of valves to close,critical infrastructure,medium,WO-26003
+[VALVE-LIST-653B],list of valves to close,critical infrastructure,medium,WO-26004
+[VALVE-LIST-FFC6],list of valves to close,critical infrastructure,medium,WO-26005
+[VALVE-LIST-8A1F],list of valves to close,critical infrastructure,medium,WO-26006
+[VALVE-LIST-4B49],list of valves to close,critical infrastructure,medium,WO-26007
+[VALVE-LIST-913D],list of valves to close,critical infrastructure,medium,WO-26008
+[VALVE-LIST-CBBB],list of valves to close,critical infrastructure,medium,WO-26009
+[VALVE-LIST-7279],list of valves to close,critical infrastructure,medium,WO-26010
+[VALVE-LIST-741F],list of valves to close,critical infrastructure,medium,WO-26011
+[VALVE-LIST-DD55],list of valves to close,critical infrastructure,medium,WO-26012
+[VALVE-LIST-2623],list of valves to close,critical infrastructure,medium,WO-26013
+[VALVE-LIST-DAB3],list of valves to close,critical infrastructure,medium,WO-26014
+[VALVE-LIST-49F9],list of valves to close,critical infrastructure,medium,WO-26015
+[VALVE-LIST-E86D],list of valves to close,critical infrastructure,medium,WO-26016
+[VALVE-LIST-1B03],list of valves to close,critical infrastructure,medium,WO-26017
+[VALVE-LIST-D1C4],list of valves to close,critical infrastructure,medium,WO-26018
+[VALVE-LIST-EA76],list of valves to close,critical infrastructure,medium,WO-26019
+[VALVE-LIST-68F2],list of valves to close,critical infrastructure,medium,WO-26020
+[VALVE-LIST-02D8],list of valves to close,critical infrastructure,medium,WO-26021
+[VALVE-LIST-DAFC],list of valves to close,critical infrastructure,medium,WO-26022
+[VALVE-LIST-E9B4],list of valves to close,critical infrastructure,medium,WO-26023
+[VALVE-LIST-C11A],list of valves to close,critical infrastructure,medium,WO-26024
+[VALVE-LIST-A8E2],list of valves to close,critical infrastructure,medium,WO-26025
+[VALVE-LIST-D488],list of valves to close,critical infrastructure,medium,WO-26026
+[VALVE-LIST-DD3A],list of valves to close,critical infrastructure,medium,WO-26027
+[VALVE-LIST-3659],list of valves to close,critical infrastructure,medium,WO-26028
+[VALVE-LIST-743C],list of valves to close,critical infrastructure,medium,WO-26029
+[VALVE-LIST-28C6],list of valves to close,critical infrastructure,medium,WO-26030
+[VALVE-LIST-DEBB],list of valves to close,critical infrastructure,medium,WO-26031
+[VALVE-LIST-CE38],list of valves to close,critical infrastructure,medium,WO-26032
+[VALVE-LIST-3336],list of valves to close,critical infrastructure,medium,WO-26033
+[VALVE-LIST-3F9C],list of valves to close,critical infrastructure,medium,WO-26034
+[VALVE-LIST-637B],list of valves to close,critical infrastructure,medium,WO-26035
+[VALVE-LIST-313D],list of valves to close,critical infrastructure,medium,WO-26036
+[VALVE-LIST-0BD6],list of valves to close,critical infrastructure,medium,WO-26037
+[VALVE-LIST-56B3],list of valves to close,critical infrastructure,medium,WO-26038
+[VALVE-LIST-7AFC],list of valves to close,critical infrastructure,medium,WO-26039
+[VALVE-LIST-6517],list of valves to close,critical infrastructure,medium,WO-26040
+[VALVE-LIST-96D2],list of valves to close,critical infrastructure,medium,WO-26041
+[VALVE-LIST-253C],list of valves to close,critical infrastructure,medium,WO-26042
+[VALVE-LIST-59A2],list of valves to close,critical infrastructure,medium,WO-26043
+[VALVE-LIST-3F16],list of valves to close,critical infrastructure,medium,WO-26044
+[VALVE-LIST-37A6],list of valves to close,critical infrastructure,medium,WO-26045
+[VALVE-LIST-C910],list of valves to close,critical infrastructure,medium,WO-26046
+[VALVE-LIST-ACFC],list of valves to close,critical infrastructure,medium,WO-26047
+[VALVE-LIST-4491],list of valves to close,critical infrastructure,medium,WO-26048
+[VALVE-LIST-DBEC],list of valves to close,critical infrastructure,medium,WO-26049
+[VALVE-LIST-E9A1],list of valves to close,critical infrastructure,medium,WO-26050
+[VALVE-LIST-165F],list of valves to close,critical infrastructure,medium,WO-26051
+[VALVE-LIST-865A],list of valves to close,critical infrastructure,medium,WO-26052
+[VALVE-LIST-98CF],list of valves to close,critical infrastructure,medium,WO-26053
+[VALVE-LIST-C2B8],list of valves to close,critical infrastructure,medium,WO-26054
+[VALVE-LIST-C47E],list of valves to close,critical infrastructure,medium,WO-26055
+[VALVE-LIST-FB77],list of valves to close,critical infrastructure,medium,WO-26056
+[VALVE-LIST-7480],list of valves to close,critical infrastructure,medium,WO-26057
+[VALVE-LIST-E71F],list of valves to close,critical infrastructure,medium,WO-26058
+[VALVE-LIST-4173],list of valves to close,critical infrastructure,medium,WO-26059
+[VALVE-LIST-82C8],list of valves to close,critical infrastructure,medium,WO-26060
+[VALVE-LIST-A516],list of valves to close,critical infrastructure,medium,WO-26061
+[VALVE-LIST-C9CB],list of valves to close,critical infrastructure,medium,WO-26062
+[VALVE-LIST-5EA1],list of valves to close,critical infrastructure,medium,WO-26063
+[VALVE-LIST-577E],list of valves to close,critical infrastructure,medium,WO-26064
+[VALVE-LIST-21E2],list of valves to close,critical infrastructure,medium,WO-26065
+[VALVE-LIST-53C9],list of valves to close,critical infrastructure,medium,WO-26066
+[VALVE-LIST-2BAE],list of valves to close,critical infrastructure,medium,WO-26067
+[VALVE-LIST-E72F],list of valves to close,critical infrastructure,medium,WO-26068
+[VALVE-LIST-D6F1],list of valves to close,critical infrastructure,medium,WO-26069
+[COMPONENT-VERSION-4B02],component and version,critical infrastructure,high,PS-01
+[VULNERABILITY-ID-8B61],vulnerability identifier,critical infrastructure,high,PS-01
+[COMPONENT-VERSION-FB7A],component and version,critical infrastructure,high,PS-01
+[VULNERABILITY-ID-B9F9],vulnerability identifier,critical infrastructure,high,PS-01
+[COMPONENT-VERSION-3807],component and version,critical infrastructure,high,PS-02
+[VULNERABILITY-ID-8844],vulnerability identifier,critical infrastructure,high,PS-02
+[COMPONENT-VERSION-3952],component and version,critical infrastructure,high,PS-02
+[VULNERABILITY-ID-B988],vulnerability identifier,critical infrastructure,high,PS-02
+[COMPONENT-VERSION-D02E],component and version,critical infrastructure,high,PS-03
+[VULNERABILITY-ID-B66E],vulnerability identifier,critical infrastructure,high,PS-03
+[COMPONENT-VERSION-F7A5],component and version,critical infrastructure,high,PS-03
+[VULNERABILITY-ID-FBD4],vulnerability identifier,critical infrastructure,high,PS-03
+[COMPONENT-VERSION-4139],component and version,critical infrastructure,high,PS-04
+[VULNERABILITY-ID-A386],vulnerability identifier,critical infrastructure,high,PS-04
+[COMPONENT-VERSION-4F49],component and version,critical infrastructure,high,PS-04
+[VULNERABILITY-ID-1892],vulnerability identifier,critical infrastructure,high,PS-04
+[COMPONENT-VERSION-FE89],component and version,critical infrastructure,high,PS-05
+[VULNERABILITY-ID-B516],vulnerability identifier,critical infrastructure,high,PS-05
+[COMPONENT-VERSION-F95B],component and version,critical infrastructure,high,PS-05
+[VULNERABILITY-ID-2B02],vulnerability identifier,critical infrastructure,high,PS-05
+[COMPONENT-VERSION-7E2B],component and version,critical infrastructure,high,PS-06
+[VULNERABILITY-ID-12CB],vulnerability identifier,critical infrastructure,high,PS-06
+[COMPONENT-VERSION-2858],component and version,critical infrastructure,high,PS-06
+[VULNERABILITY-ID-2B5E],vulnerability identifier,critical infrastructure,high,PS-06
+[SYSTEM-NAME-FEEC],affected system,critical infrastructure,high,INC-1
+[SYSTEM-NAME-8E08],affected system,critical infrastructure,high,INC-2
+[SYSTEM-NAME-F8DE],affected system,critical infrastructure,high,INC-3
+[SYSTEM-NAME-1F1E],affected system,critical infrastructure,high,INC-4
+[SYSTEM-NAME-A3A9],affected system,critical infrastructure,high,INC-5
+[SYSTEM-NAME-7945],affected system,critical infrastructure,high,INC-6
+[BID-AMOUNT-BF26],competing bid amount,organizational,—,Firm A
+[BID-AMOUNT-BD87],competing bid amount,organizational,—,Firm B
+[BID-AMOUNT-B17A],competing bid amount,organizational,—,Firm C
+[REMOTE-ACCESS-METHOD-C65A],remote-access method,critical infrastructure,high,contractor procedure
+[CREDENTIAL-8C76],login credential,critical infrastructure,high,contractor procedure
+[NETWORK-ARCHITECTURE-1CCE],SCADA network architecture,critical infrastructure,high,architecture document
+[NETWORK-MAP-7814],network map file,critical infrastructure,high,GIS
+[SCADA-CONFIGURATION-0880],SCADA configuration file,critical infrastructure,high,configuration archive
+[OUT-OF-SCOPE-DEVICE-4850],devices outside the maintenance scope,critical infrastructure,medium,maintenance plan
+On weekend night shifts there is a single operator in the control centre,weak shift pattern,critical infrastructure,high,shift note

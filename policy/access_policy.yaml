@@ -1,0 +1,72 @@
+data_levels:
+  D1: public
+  D2: internal use
+  D3: sensitive (personal or operational)
+  D4: critical infrastructure
+rule: In a combined field both policies must permit disclosure (personal-data policy
+  AND critical-infrastructure policy).
+roles:
+  customer_authenticated:
+    may_see:
+    - own bill
+    - own consumption (daily total)
+    purpose:
+    - billing
+    - complaint
+  call_centre:
+    may_see:
+    - customer contact details
+    - bills
+    - arrears
+    purpose:
+    - customer service
+  meter_reader:
+    may_see:
+    - addresses and meter numbers on own route
+    purpose:
+    - meter reading
+  crew_leader:
+    may_see:
+    - assigned work order
+    - valve list of that work order
+    purpose:
+    - fault repair
+  neighbourhood_public:
+    may_see:
+    - D1
+    - outage duration (neighbourhood level)
+    purpose:
+    - information
+  planning_unit:
+    may_see:
+    - main present / not present in the queried street
+    purpose:
+    - excavation coordination
+  contractor_active:
+    may_see:
+    - assigned maintenance scope
+    purpose:
+    - planned maintenance
+    condition: active contract + work order
+  it_staff:
+    may_see:
+    - penetration-test findings
+    - remediation status
+    purpose:
+    - remediation tracking
+  human_resources:
+    may_see:
+    - overtime hours
+    purpose:
+    - payroll
+  operator:
+    may_see:
+    - SCADA live values
+    purpose:
+    - operations
+    tool: advice only; no direct commands
+  external:
+    may_see:
+    - D1
+    purpose:
+    - '*'

@@ -1,0 +1,26 @@
+{
+ "consumption": {
+  "day_level_absence_precision": 1.0,
+  "day_level_absence_recall": 0.545,
+  "households_with_absence": 65,
+  "households_found": 39,
+  "false_alarm_households": 0,
+  "leak_households": 14,
+  "leaks_found": 14,
+  "leak_false_alarms": 0
+ },
+ "network": {
+  "link_recon_distribution": {
+   "low": 780,
+   "medium": 179,
+   "high": 102
+  },
+  "work_order_recon_distribution": {
+   "low": 48,
+   "medium": 17,
+   "high": 5
+  },
+  "work_orders": 70,
+  "mean_leak_duration_days": 143.0
+ }
+}
