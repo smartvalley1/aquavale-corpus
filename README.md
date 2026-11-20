@@ -1,6 +1,6 @@
 # AquaVale: A Synthetic Water and Wastewater Utility Corpus
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24406031.svg)](https://doi.org/10.5281/zenodo.24406031)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24406256.svg)](https://doi.org/10.5281/zenodo.24406256)
 
 AquaVale is a fictional water and wastewater utility built to measure how often internal AI assistants disclose customer data and critical infrastructure information to the wrong recipient. It accompanies the paper *"Are Internal AI Assistants a Reconnaissance Source for Critical Infrastructure?"*.
 
@@ -48,10 +48,10 @@ python3 scripts/measure.py . responses.csv
 
 ## Changes
 - **1.1.0** — Entire corpus translated to English (file names, columns, values, documents, canaries, policy, questions, scripts). Same seed; all counts identical to 1.0.0.
-- **1.0.0** — First release (Turkish field names).
+- **1.0.0** — First release (Turkish field names). DOI: 10.5281/zenodo.24406031
 
 ## Licences
 Data and documents: CC BY 4.0. Code in `scripts/`: MIT. Derived open components are subject to their own licences: WNTR (Revised BSD), BATADAL and BattLeDIM (see their repositories); please cite them as listed in the paper.
 
 ## Citation
-Ünlü, N. (2026). *AquaVale: Synthetic water utility corpus for measuring disclosure by internal AI assistants* (Version 1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24406031
+Ünlü, N. (2026). *AquaVale: Synthetic water utility corpus for measuring disclosure by internal AI assistants* (Version 1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24406256
