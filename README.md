@@ -1,5 +1,7 @@
 # AquaVale: Kurgusal Su ve Atıksu İdaresi Deney Derlemi
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24406031.svg)](https://doi.org/10.5281/zenodo.24406031)
+
 Makale 1 ("İç Yapay Zekâ Asistanları Kritik Altyapı İçin Keşif Kaynağı mı?") için hazırlanan örnek veri seti. Gerçek kişi, gerçek idare ya da gerçek yapılandırma içermez.
 
 ## Açık kaynaklar
@@ -49,3 +51,6 @@ git clone --depth 1 https://github.com/KIOS-Research/BattLeDIM data_raw/BattLeDI
 pip install -r requirements.txt
 python3 scripts/gen_aquavale.py
 ```
+
+## Atıf
+Ünlü, N. (2026). *AquaVale: Synthetic water utility corpus for measuring disclosure by internal AI assistants* (Sürüm 1.0.0) [Veri seti]. Zenodo. https://doi.org/10.5281/zenodo.24406031
